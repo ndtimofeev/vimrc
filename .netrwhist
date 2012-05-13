@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/usr/share/vim/vim73/indent'
+let g:netrw_dirhist_2='/home/ndtimofeev/.vim/bundle/vim-haskellConceal'
+let g:netrw_dirhist_3='/home/ndtimofeev/.vim/bundle/vim-haskellConceal/after'
+let g:netrw_dirhist_4='/home/ndtimofeev/.vim/bundle/vim-haskellConceal/after/syntax'
+let g:netrw_dirhist_5='/home/ndtimofeev/.vim/bundle/vim-haskellConceal'
+let g:netrw_dirhist_6='/home/ndtimofeev/.vim/bundle/spacehi.vim/plugin'

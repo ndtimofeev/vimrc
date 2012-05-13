@@ -1,0 +1,1 @@
+source ~/.vim/devel.vim
