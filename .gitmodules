@@ -1,56 +1,56 @@
-[submodule "Recover.vim"]
+[submodule "bundle/Recover.vim"]
 	path = bundle/Recover.vim
 	url = git://github.com/chrisbra/Recover.vim.git
-[submodule "clang_complete"]
+[submodule "bundle/clang_complete"]
 	path = bundle/clang_complete
 	url = https://github.com/Rip-Rip/clang_complete.git
-[submodule "delimitMate"]
+[submodule "bundle/delimitMate"]
 	path = bundle/delimitMate
 	url = https://github.com/Raimondi/delimitMate.git
-[submodule "ghcmod-vim"]
+[submodule "bundle/ghcmod-vim"]
 	path = bundle/ghcmod-vim
 	url = https://github.com/eagletmt/ghcmod-vim.git
-[submodule "neco-ghc"]
+[submodule "bundle/neco-ghc"]
 	path = bundle/neco-ghc
 	url = https://github.com/ujihisa/neco-ghc.git
-[submodule "spacehi.vim"]
+[submodule "bundle/spacehi.vim"]
 	path = bundle/spacehi.vim
 	url = https://github.com/vim-scripts/spacehi.vim.git
-[submodule "syntastic"]
+[submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
-[submodule "vim-commentary"]
+[submodule "bundle/vim-commentary"]
 	path = bundle/vim-commentary
 	url = https://github.com/tpope/vim-commentary.git
-[submodule "vim-fugitive"]
+[submodule "bundle/vim-fugitive"]
 	path = bundle/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive
-[submodule "vim-haskellConceal"]
+[submodule "bundle/vim-haskellConceal"]
 	path = bundle/vim-haskellConceal
 	url = https://github.com/Twinside/vim-haskellConceal.git
-[submodule "vim-surround"]
+[submodule "bundle/vim-surround"]
 	path = bundle/vim-surround
 	url = https://github.com/tpope/vim-surround.git
-[submodule "vimproc"]
+[submodule "bundle/vimproc"]
 	path = bundle/vimproc
 	url = https://github.com/Shougo/vimproc.git
 
-[submodule "better-snipmate-snippets"]
+[submodule "examples/snippets/better-snipmate-snippets"]
 	path = examples/snippets/better-snipmate-snippets
 	url = https://github.com/bartekd/better-snipmate-snippets.git
-[submodule "lazy-snipmate"]
+[submodule "examples/snippets/lazy-snipmate"]
 	path = examples/snippets/lazy-snipmate
 	url = https://github.com/msanders/snipmate.vim.git
-[submodule "snipmate-snippets"]
+[submodule "examples/snippets/snipmate-snippets"]
 	path = examples/snippets/snipmate-snippets
 	url = https://github.com/honza/snipmate-snippets.git
-[submodule "snipmate.vim"]
+[submodule "examples/snippets/snipmate.vim"]
 	path = examples/snippets/snipmate.vim
 	url = git://github.com/msanders/snipmate.vim.git
-[submodule "xptemplate"]
+[submodule "examples/snippets/xptemplate"]
 	path = examples/snippets/xptemplate
 	url = https://github.com/drmingdrmer/xptemplate.git
 
-[submodule "xf0e-vim"]
+[submodule "examples/xf0e-vim"]
 	path = examples/xf0e-vim
 	url = https://github.com/xf0e/vim.git
