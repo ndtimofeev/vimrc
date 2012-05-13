@@ -47,13 +47,12 @@
 [submodule "examples/snippets/snipmate.vim"]
 	path = examples/snippets/snipmate.vim
 	url = git://github.com/msanders/snipmate.vim.git
-[submodule "examples/snippets/xptemplate"]
-	path = examples/snippets/xptemplate
-	url = https://github.com/drmingdrmer/xptemplate.git
-
-[submodule "examples/xf0e-vim"]
-	path = examples/xf0e-vim
-	url = https://github.com/xf0e/vim.git
 [submodule "bundle/vim-powerline"]
 	path = bundle/vim-powerline
 	url = https://github.com/Lokaltog/vim-powerline.git
+[submodule "bundle/vim-conque"]
+	path = bundle/vim-conque
+	url = git://github.com/rson/vim-conque.git
+[submodule "bundle/snippetsEmu"]
+	path = bundle/snippetsEmu
+	url = git://github.com/vim-scripts/snippetsEmu.git
