@@ -54,3 +54,6 @@
 [submodule "examples/xf0e-vim"]
 	path = examples/xf0e-vim
 	url = https://github.com/xf0e/vim.git
+[submodule "bundle/vim-powerline"]
+	path = bundle/vim-powerline
+	url = https://github.com/Lokaltog/vim-powerline.git
